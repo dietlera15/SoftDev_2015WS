@@ -20,7 +20,7 @@ public class swd_20151120
 			InputStreamReader streamReader = new InputStreamReader(stream);
 			BufferedReader bufferReader = new BufferedReader(streamReader);
 */			
-			reader = new BufferedReader(new FileInputStream("/tmp/hallo.txt"));
+//			reader = new BufferedReader(new FileInputStream("/tmp/hallo.txt"));
 			
 			String line = null;
 			int lineNum = 1;
